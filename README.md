@@ -4,4 +4,4 @@ Pure modeling. No prediction guaranteed.
 Best of wishes to all the people around the world.
 May health and peace be around you.
 
-![tmr](https://github.com/tongbaojia/vr_2020/blob/master/Plots/1_30_2020_sigmoid.png)
+![tmr](https://github.com/tongbaojia/vr_2020/blob/master/Plots/1_31_2020_sigmoid.png)
