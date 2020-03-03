@@ -6,4 +6,4 @@ May health and peace be around you.
 
 This is the saddest modeling that I have to do in my life.
 Now there is hope. The turning point is finally here.
-![tmr](https://github.com/tongbaojia/vr_2020/blob/master/Plots/3_1_2020_sigmoid.png)
+![tmr](https://github.com/tongbaojia/vr_2020/blob/master/Plots/3_2_2020_sigmoid.png)
