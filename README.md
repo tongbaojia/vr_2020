@@ -6,4 +6,6 @@ May health and peace be around you.
 
 This is the saddest modeling that I have to do in my life.
 Now there is hope. The turning point is finally here.
-![tmr](https://github.com/tongbaojia/vr_2020/blob/master/Plots/3_10_2020_sigmoid.png)
+![China](https://github.com/tongbaojia/vr_2020/blob/master/Plots/2020-03-12_pred_china.png)
+![US](https://github.com/tongbaojia/vr_2020/blob/master/Plots/2020-03-12_pred_us.png)
+![World excluding China](https://github.com/tongbaojia/vr_2020/blob/master/Plots/2020-03-12_pred_world_exclude_china.png)
